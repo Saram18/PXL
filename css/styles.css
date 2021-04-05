@@ -128,7 +128,7 @@ position: fixed;
       top :2900px;
       left:1100px;
       transform: translate(-50%,-50%);
-      position:absolute;
+      position:relative;
 
 }
 
